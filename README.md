@@ -1,4 +1,5 @@
-# admins
-git remote add origin https://github.com/hpaolini/chatsimulator/blob/master/index.html
-git branch -M main
-git push -u origin main
+# admins-only
+admin log in *you can block users on this acc* 
+user:admin@cbozeyboy.com
+password:the adminkey32
+from cbozey: <button onclick="https://cbozeyboy199.github.io/rules/'">admins log on</button>
